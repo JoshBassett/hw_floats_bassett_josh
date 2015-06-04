@@ -11,11 +11,11 @@
 .box-1 {
     background: red;
     float: right;
+    clear: both;
 }
 
 .box-2 {
     background: green;
-    float: left;
 }
 
 .box-3 {
