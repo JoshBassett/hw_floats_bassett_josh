@@ -1,9 +1,14 @@
 h1 {
 	float: right;
+
 }
 
 
 img {
     width: 400px;
     float: left;
+}
+
+p:nth-of-type(3){
+	clear: both;
 }
